@@ -283,3 +283,4 @@ G:\Projects\User-Management-App-in-Flutter-with-ASP-.Net-Core-Web-API-Backend\Us
 G:\Projects\User-Management-App-in-Flutter-with-ASP-.Net-Core-Web-API-Backend\UserManagement.Api\UserManagement.Api\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 G:\Projects\User-Management-App-in-Flutter-with-ASP-.Net-Core-Web-API-Backend\UserManagement.Api\UserManagement.Api\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 G:\Projects\User-Management-App-in-Flutter-with-ASP-.Net-Core-Web-API-Backend\UserManagement.Api\UserManagement.Api\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\User-Management-App-in-Flutter-with-ASP-.Net-Core-Web-API-Backend\UserManagement.Api\UserManagement.Api\bin\Debug\net10.0\BCrypt.Net-Next.dll
