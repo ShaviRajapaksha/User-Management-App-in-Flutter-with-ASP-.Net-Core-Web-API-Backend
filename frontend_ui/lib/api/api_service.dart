@@ -19,4 +19,23 @@ class ApiService {
       throw Exception('Failed to login');
     }
   }
+
+  static Future<void> register(
+    String username,
+    String password,
+    String role,
+  ) async {
+    final response = await http.post(
+      Uri.parse("$baseUrl/auth/register"),
+      headers: {"Content-Type": "application/json"},
+      body: jsonEncode({
+        "username": username,
+        "password": password,
+        "role": role,
+      }),
+    );
+    if (response.statusCode != 200) {
+      throw Exception("Registration failed");
+    }
+  }
 }
