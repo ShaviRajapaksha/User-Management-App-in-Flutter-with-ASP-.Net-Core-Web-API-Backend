@@ -1,4 +1,23 @@
 # User-Management-App-in-Flutter-with-ASP-.Net-Core-Web-API-Backend
+## Flutter UI Screenshots
+
+## Backend Screenshots
+<table>
+ <tr>
+ <td>
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/381f492a-64b8-417a-9998-498ecd41df7e" />
+ </td>
+  <td>
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/6d2bbf4e-f9c2-4633-80b6-8a7e796834db" />
+ </td>
+<td>
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/bc47b7c5-b5c2-42af-bdd7-ed651943a497" />
+ </td>
+<td>
+  <img height="500" alt="image" src="https://github.com/user-attachments/assets/dadca8a9-156b-48bc-9f0c-4787332e4513" />
+ </td>  
+ </tr>
+</table>
 
 ## Backend Screenshots
 <table>
@@ -18,3 +37,4 @@
   </td>
  </tr>
 </table>
+
