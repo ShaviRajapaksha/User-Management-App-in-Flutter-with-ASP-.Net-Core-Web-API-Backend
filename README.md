@@ -240,15 +240,5 @@ static const String baseUrl = "http://localhost:5250";
 
 ---
 
-## Future Enhancements
-
-* Auto-login with stored token
-* Token refresh mechanism
-* Admin → View all users
-* Flutter profile page
-* Restrict Admin creation from UI for production
-* Improved Flutter UI with Material 3
-
----
 
 
